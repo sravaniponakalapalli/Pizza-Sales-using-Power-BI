@@ -2,8 +2,8 @@
 ## Description
 This project utilizes Power BI to analyze and visualize data of Pizza Sales.
 ## Files
-- **data.sql**: Contains the SQL script used to create and populate the database tables.
-- **data.csv**: Excel CSV file containing the raw data used in the analysis.
+- **pizza_sql.sql**: Contains the SQL script used to create and populate the database tables.
+- **pizza_sales_excel.csv**: Excel CSV file containing the raw data used in the analysis.
 ## Problem Statement 
 ### KPI's Requirement
 we need to analyze key indicator for our pizza sales data to gain insights into our business performance.
